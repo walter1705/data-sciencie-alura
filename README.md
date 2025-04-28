@@ -5,7 +5,7 @@ Welcome to the repository for the exercises and projects from the **Data Science
 ## About the Bootcamp
 
 The Data Science Bootcamp from Alura Latam focuses on building foundational skills in data analysis, visualization, and machine learning. Participants gain hands-on experience with key tools and techniques used in the field, including Python, Pandas, NumPy, and Matplotlib, among others.
-More information in [[https://www.oracle.com/co/education/oracle-next-education/ | bootcamp]] site.
+More information in [bootcamp](https://www.oracle.com/co/education/oracle-next-education/) site.
 
 ## Repository Structure
 
@@ -39,4 +39,4 @@ git clone https://github.com/walter1705/data-sciencie-alura.git
 
 ---
 
-Author: [[https://github.com/walter1705 |walter]]
+Author: [walter](https://github.com/walter1705) 
